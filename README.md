@@ -1,6 +1,7 @@
+## What is AjaxForm ?
 AjaxForm form for using html forms with AJAX feature easly.
 
-For example:
+## Example :
 ```html
 <form action="destination.php" method="POST" class="ajax-form">
 <input type="text" name="field1" />
