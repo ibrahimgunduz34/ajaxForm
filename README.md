@@ -1,5 +1,5 @@
 ## What is AjaxForm ?
-ajaxForm using for form elements with AJAX feature easly.
+ajaxForm is using for form elements with AJAX feature easly.
 ## Example :
 ```html
 <form action="destination.php" method="POST" class="ajax-form">
