@@ -19,7 +19,7 @@
             var isSuccess = xhrObject.status == 200;
             var response = xhrObject.responseText;
             if(typeof(this.options.result) != 'undefined') {
-                callback = this.options.result;
+                callback = this.options.afterSend;
                 callback.apply(this.object, [isSuccess, response]);
             }
         },

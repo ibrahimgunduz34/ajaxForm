@@ -21,10 +21,10 @@ If you want to define any callback functions on before or/and after :
 ```javascript
 $('.ajax-form').ajaxForm({
   beforeSend : function() {
-    //write some code...
+    //write some codes...
   },
-  afterSend : function(data, textStatus) {
-    //if textStatus is returned as 'success', returns response on data paremter from server side.
+  afterSend : function(isSuccess, data) {
+    //write some codes...
   }
 });
 ```
