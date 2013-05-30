@@ -1,8 +1,8 @@
 ## What is AjaxForm ?
-ajaxForm is using for form elements with AJAX feature easly.
+ajaxForm converts your html forms to ajax form as easly.
 
 ### v.1.0.1:
-Ajax upload now available for file upload!
+Ajax upload is now available for file upload!
 
 ## Example :
 ```html
