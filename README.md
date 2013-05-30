@@ -1,5 +1,9 @@
 ## What is AjaxForm ?
 ajaxForm is using for form elements with AJAX feature easly.
+
+### v.1.0.1:
+Ajax upload now available for file upload!
+
 ## Example :
 ```html
 <form action="destination.php" method="POST" class="ajax-form">
